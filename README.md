@@ -1,5 +1,5 @@
 # GCP
-echo "# GCP" >> README.md
+echo "# GCP_Faturamento" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
